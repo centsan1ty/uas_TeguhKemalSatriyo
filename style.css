@@ -7,4 +7,6 @@ body {
   background-color: #880106;
 }
 
-
+.bg-primary {
+  background-color: #880106 !important;
+}
